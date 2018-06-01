@@ -2,14 +2,32 @@ body {
 	color: white;
 }
 
+.fa {
+	font-size: 60px;
+}
+
 h1 {
 	text-align: center;
+	font-size: 110px;
+	margin-bottom: 5%;
+	font-weight: bold;
+}
+
+#title h3 {
+	font-size: 30px;
+	margin-bottom: 5%;
+}
+
+h4 {
+	font-size: 30px;
 }
 
 hr {
-	border-color: yellow;
-	background-color: navy;
+	border-color: grey;
+	background-color: grey;
 }
+
+
 #bigpictureinfo {
 	color:grey;
 }
@@ -19,8 +37,14 @@ hr {
 	height: 100%;
 }
 #info {
+	padding-top: 5%;
 	background-color: black;
+	width: 100%;
 }
 #core-values {
-		text-align: center;
+	text-align: center;
+}
+#core-values hr {
+	border-color: orange;
+	background-color: orange;
 }
