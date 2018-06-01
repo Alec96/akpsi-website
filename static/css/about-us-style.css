@@ -1,0 +1,26 @@
+body {
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+hr {
+	border-color: yellow;
+	background-color: navy;
+}
+#bigpictureinfo {
+	color:grey;
+}
+#title {
+	background-color: darkgrey;
+	text-align: center;
+	height: 100%;
+}
+#info {
+	background-color: black;
+}
+#core-values {
+		text-align: center;
+}
