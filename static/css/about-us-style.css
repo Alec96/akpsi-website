@@ -1,10 +1,8 @@
+/*Global CSS*/
+
 body {
 	color: white;
 	background-color: black;
-}
-
-.fa {
-	font-size: 4vw;
 }
 
 h1 {
@@ -12,11 +10,6 @@ h1 {
 	font-size: 9vw;
 	margin-bottom: 5%;
 	font-weight: bold;
-}
-
-#title h3 {
-	font-size: 3vw;
-	margin-bottom: 5%;
 }
 
 h4 {
@@ -32,25 +25,39 @@ img {
      max-width: 100%;
 }
 
+/*Symbols*/
+.fa {
+	font-size: 4vw;
+}
+
 
 /******************** Nav ********************/
 #nav-logo {
     max-width: 30vw;
 }
 
-
-#bigpictureinfo {
-	color:grey;
-}
 #title {
 	background-color: darkgrey;
 	text-align: center;
 	height: 100%;
 }
+
+#title h3 {
+	font-size: 3vw;
+	margin-bottom: 5%;
+}
+
+/* Big Picture and Core Value*/
+
 #info {
 	padding-top: 5%;
 	width: 100%;
 }
+
+#bigpicture p {
+	color:grey;
+}
+
 #core-values {
 	text-align: center;
 }
@@ -58,6 +65,8 @@ img {
 	border-color: orange;
 	background-color: orange;
 }
+
+/*Pictures*/
 
 #pictureDiv {
 	padding-top: 5%;
