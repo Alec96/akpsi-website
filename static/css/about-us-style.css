@@ -32,6 +32,13 @@ img {
      max-width: 100%;
 }
 
+
+/******************** Nav ********************/
+#nav-logo {
+    max-width: 30vw;
+}
+
+
 #bigpictureinfo {
 	color:grey;
 }
