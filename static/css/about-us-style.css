@@ -36,8 +36,16 @@ img {
     max-width: 30vw;
 }
 
+.nav-link {
+	font-weight: bold;
+	color: white;
+}
+
+
+/*Title Card*/
+
 #title {
-	background-color: darkgrey;
+	background-color: black	;
 	text-align: center;
 	height: 100%;
 }
