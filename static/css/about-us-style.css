@@ -1,25 +1,26 @@
 body {
 	color: white;
+	background-color: black;
 }
 
 .fa {
-	font-size: 60px;
+	font-size: 4vw;
 }
 
 h1 {
 	text-align: center;
-	font-size: 110px;
+	font-size: 9vw;
 	margin-bottom: 5%;
 	font-weight: bold;
 }
 
 #title h3 {
-	font-size: 30px;
+	font-size: 3vw;
 	margin-bottom: 5%;
 }
 
 h4 {
-	font-size: 30px;
+	font-size: 2vw;
 }
 
 hr {
@@ -27,6 +28,9 @@ hr {
 	background-color: grey;
 }
 
+img {
+     max-width: 100%;
+}
 
 #bigpictureinfo {
 	color:grey;
@@ -38,7 +42,6 @@ hr {
 }
 #info {
 	padding-top: 5%;
-	background-color: black;
 	width: 100%;
 }
 #core-values {
@@ -47,4 +50,13 @@ hr {
 #core-values hr {
 	border-color: orange;
 	background-color: orange;
+}
+
+#pictureDiv {
+	padding-top: 5%;
+}
+
+#pictureDiv {
+	padding-left: 3%;
+	padding-bottom: 5%;
 }
