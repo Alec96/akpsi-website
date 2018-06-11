@@ -41,6 +41,11 @@ body {
 
 .ourchapter {
 	margin-top: 5%;
-	width: 100%;
+	width: 90vw;
 	margin-bottom: 10%;
+}
+
+#header #navbarSupportedContent .navbar{
+	float: right;
+	width: 100%;
 }
